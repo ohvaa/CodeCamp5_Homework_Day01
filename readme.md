@@ -33,7 +33,7 @@ Note :
 3. upload ขึ้น github.io  
 
 **Answer**  
-https://ohvaa.github.io/day1h2  
+https://ohvaa.github.io/day1h2/booking.html  
 
 ------
 
@@ -50,7 +50,7 @@ https://ohvaa.github.io/day1h2
 ![alt text](https://github.com/ohvaa/CodeCamp5_Homework_Day01/raw/master/imgs/phonebook.jpg "phonebook")
 
 **Answer**  
-https://ohvaa.github.io/day1h3
+https://ohvaa.github.io/day1h3/phonebook.html
 
 ------
 
