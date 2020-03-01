@@ -26,7 +26,7 @@ https://ohvaa.github.io/day1h1
 
 ให้สร้าง form ชื่อ booking.html โดยมีหน้าตาดังรูป  
 
-![alt text](https://github.com/ohvaa/CodeCamp5_Homework_Day01/raw/master/imgs/booking.jpg "booking")
+![alt text](https://github.com/ohvaa/CodeCamp5_Homework_Day01/raw/master/imgs/booking.jpg "booking")  
 Note : 
 1. ห้ามใช้ Bootstrap 
 2. สนใจเฉพาะส่วนที่วงสีแดง
